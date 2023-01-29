@@ -1,7 +1,7 @@
 # King's Tool
 This Tool is an all-in-one tool that uses batch file language for Windows machines to run tasks from menu selections. This tool is virus-free, which means you can view the source code.
 
-#FAQ
+# FAQ
 
 * Test
 
