@@ -1,8 +1,9 @@
-# KING-TOOL
-K!NG OFFICIAL ALL IN ONE TOOL
+# King's Tool
+This Tool is an all-in-one tool that uses batch file language for Windows machines to run tasks from menu selections. This tool is virus-free, which means you can view the source code.
 
+#FAQ
 
-[ WHAT'S KING TOOL ? ]
+* Test
 
 K!NG OFFICIAL TOOL IS MULTI TOOL THAT CAN BE USED TO SPEED UP YOUR COMPUTER BY CLEARING [ TEMP / PREFETCH / WINDOWS LOGS / BROWSER DATA / RECYCLE BIN ]
 IT CAN ALSO CHANGE [ IP ADRESSE - HWID ] WE ALSO HAVE SECTION FOR ROBLOX [ OPEN ROBLOX / OPEN ROBLOX SCRIPTS ] .
