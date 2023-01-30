@@ -3,26 +3,31 @@ This Tool is an all-in-one tool that uses batch file language for Windows machin
 
 # FAQ
 
-* Test
+* What does the tool contain?
+This tool contain:
+- Clearing Temp
+- Clearing Prefetch
+- Clearing Windows Logs
+- Clearing Browser Data 
+- Clearing Recycle Bin
+- Changing IP Adresse
+- Changing HWID 
+- Open Roblox
+- Open Robloxscripts
 
-K!NG OFFICIAL TOOL IS MULTI TOOL THAT CAN BE USED TO SPEED UP YOUR COMPUTER BY CLEARING [ TEMP / PREFETCH / WINDOWS LOGS / BROWSER DATA / RECYCLE BIN ]
-IT CAN ALSO CHANGE [ IP ADRESSE - HWID ] WE ALSO HAVE SECTION FOR ROBLOX [ OPEN ROBLOX / OPEN ROBLOX SCRIPTS ] .
+* Does this tool compatible with operating systems other than Windows? ?
+No. This tool can run on Windows operating systems only.
 
-[ HOW THIS TOOL WORKS ]
+* Is King's Tool Safe?
 
-This is .batch tool that can be run by any windows operating system so if your using any other operating system this might not work for you .
+This tool is totally safe to use. It is an open-source tool.
 
-[ IS KING TOOL SAFE ? ]
-
-KING TOOL IS SAFE TO USE AND ITS OPEN SOURCE TOOL IF YOU GONNA TAKE ANY PART OF IT JUST LET THE OWNER OF THE TOOL KNOW ELSE YOU WILL COUNT AS SKID
-
-[ HOW CAN I REPORT BUGS ? ]
+* HOW CAN I REPORT BUGS ?
 
 CONATACT US AT OUR DISCORD SERVER : https://discord.com/invite/KmSqxEf
 
-[ WHO MADE THIS TOOL ? ]
+# Credits:
+@zReal-King
+Real King#0001
 
-IT MADE BY REAL KING#0001
-
-
-THANKS FOR READING .
+Thanks,
