@@ -5,15 +5,15 @@ This Tool is an all-in-one tool that uses batch file language for Windows machin
 
 * What does the tool contain?
 This tool contain:
-- Clearing Temp
-- Clearing Prefetch
-- Clearing Windows Logs
-- Clearing Browser Data 
-+ Clearing Recycle Bin
-+ Changing IP Adresse
- Changing HWID 
- Open Roblox
- Open Robloxscripts
+Clearing Temp
+Clearing Prefetch
+Clearing Windows Logs
+Clearing Browser Data
+Clearing Recycle Bin
+Changing IP Adresse
+Changing HWID
+Open Roblox
+Open Robloxscripts
 
 * Does this tool compatible with operating systems other than Windows? ?
 No. This tool can run on Windows operating systems only.
