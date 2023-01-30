@@ -15,7 +15,7 @@ This tool contain:
 - Open Roblox
 - Open Robloxscripts
 
-* Does this tool compatible with operating systems other than Windows? ?
+* Does this tool compatible with operating systems other than Windows?
 No. This tool can run on Windows operating systems only.
 
 * Is King's Tool Safe?
