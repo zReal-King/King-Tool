@@ -1,52 +1,37 @@
-@ECHO off
-MODE 101,42
-title [ K!NG OFFICIAL TOOL ] - [ Version 0.01 Beta ] - [ https://discord.gg/zWFayQj ] - [ Real King#0001 ]
-set /a num=(%Random% %%9)+1 
-color %num%
-cls
-:start
+@echo off
+title King Tool
+color 3
+::mode con lines=26 cols=122
+chcp 65001 >nul
 echo.
-echo                                             .       .          .    .
-echo                                       .  *         -*-          *
-echo                                            \        I         /   .
-echo                           .    .            .      /^\     .              .    .
-echo                              *    I\   /\    /\  / / \ \  /\    /\   /I    *
-echo                          . .   .  I  \ \/ /\ \ / /     \ \ / /\ \/ /  I .     .
-echo                                   \ I _ _\/_ _ \_\_ _ /_/_ _\/_ _ \_/
-echo                                     \  *  *  *   \ \/ /  *  *  *  /
-echo                                      ` ~ ~ ~ ~ ~  ~\/~ ~ ~ ~ ~ ~ '
-echo                                   ______________________________________
-echo.                                 /                                      \ 
-echo                                  \         Made By Real King#0001       /
-echo                                  /       https://discord.gg/zWFayQj     \    
-echo                                  \______________________________________/
-echo.                                 /                                      \
-echo                                  \              - MAIN -                /
-echo                                  /______________________________________\
-echo                                  \                                      /
-echo                                  /      [1] Clear Temporary File        \  
-echo                                  \      [2] Clear Prefetch Folder       /  
-echo                                  /      [3] Clear Windows Logs          \  
-echo                                  \      [4] Clear Browser Data          /  
-echo                                  /      [5] Clear Recycle Bin           \  
-echo                                  \      [6] Change IP Adresse           / 
-echo                                  /      [7] Change HWID                 \
-echo                                  \______________________________________/
-echo                                  /                                      \
-echo                                  \              - ROBLOX -              /
-echo.                                 /                                      \
-echo                                  \      [8] Open Roblox                 /
-echo                                  /      [9] Open Roblox Scripts         \
-echo                                  \______________________________________/  
-echo.                                 /                                      \
-echo                                  \              - INFO -                /
-echo.                                 /                                      \
-echo                                  \     [!] Details                      /
-echo                                  /     [-] Join Discord                 \
-echo                                  \     [$] Donate Creator               /
-echo                                  /______________________________________\
 echo.
-                                             set/p choice=^                                    [+] Choose Number : 
+echo [40;31m██ ▄█▀ ██▓ ███▄    █   ▄████       [40;34m▄▄▄█████▓  █████    █████   ██▓    
+echo [40;31m██▄█▒ ▓██▒ ██ ▀█   █  ██▒ ▀█▒      [40;34m▓  ██▒ ▓▒▒██▒  ██▒▒██▒  ██▒▓██▒    
+echo [40;31m███▄░ ▒██▒▓██  ▀█ ██▒▒██░▄▄▄░      [40;34m▒ ▓██░ ▒░▒██░  ██▒▒██░  ██▒▒██░    
+echo [40;31m██ █▄ ░██░▓██▒  ▐▌██▒░▓█  ██▓      [40;34m░ ▓██▓ ░ ▒██   ██░▒██   ██░▒██░    
+echo [40;31m██▒ █▄░██░▒██░   ▓██░░▒▓███▀▒      [40;34m  ▒██▒ ░ ░ ████▓▒░░ ████▓▒░░██████ 
+echo [40;31m ▒▒ ▓▒░▓  ░ ▒░   ▒ ▒  ░▒   ▒       [40;34m  ▒ ░░   ░ ▒░▒░▒░ ░ ▒░▒░▒░ ░ ▒░▓   
+echo [40;31m ░▒ ▒░ ▒ ░░ ░░   ░ ▒░  ░   ░       [40;34m    ░      ░ ▒ ▒░   ░ ▒ ▒░ ░ ░ ▒   
+echo [40;31m ░░ ░  ▒ ░   ░   ░ ░ ░ ░   ░       [40;34m  ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░   
+echo [40;31m  ░    ░           ░       ░       [40;34m             ░ ░      ░ ░      ░   
+::[40;34m[[40;37m+[40;34m] [40;37mCREATED BY REAL KING
+echo.
+echo [40;37m__________________________________________________________________
+echo.
+echo [40;31m[[40;37m 1 [40;34m] [40;37mClear Temporary File                [40;31m[[40;37m 5 [40;34m] [40;37mClear Recycle Bin
+echo [40;31m[[40;37m 2 [40;34m] [40;37mClear Prefetch Folder               [40;31m[[40;37m 6 [40;34m] [40;37mChange IP Adresse
+echo [40;31m[[40;37m 3 [40;34m] [40;37mClear Windows Logs                  [40;31m[[40;37m 7 [40;34m] [40;37mChange HWID
+echo [40;31m[[40;37m 4 [40;34m] [40;37mClear Browser Data
+echo.
+echo [40;31m[[40;37m 8 [40;34m] [40;37mOpen Roblox
+echo [40;31m[[40;37m 9 [40;34m] [40;37mOpen Roblox Scripts
+echo.
+echo [40;31m[[40;37m ! [40;34m] [40;37mDetails
+echo [40;31m[[40;37m - [40;34m] [40;37mJoin Discord
+echo [40;31m[[40;37m $ [40;34m] [40;37mDonate Creator
+echo [40;37m__________________________________________________________________
+echo.
+set/p choice=^                                    [40;34m[[40;37m+[40;34m] [40;37mChoose : 
 if not '%choice%'=='' set choice=%choice:~0,1%
 if '%choice%'=='1' goto Temp
 if '%choice%'=='2' goto Prefetch
@@ -60,45 +45,12 @@ if '%choice%'=='9' goto Script
 if '%choice%'=='!' goto Credit
 if '%choice%'=='-' goto Discord
 if '%choice%'=='$' goto Donate
-
-ECHO "%choice%" is not valid, try again
-ECHO.
-goto start
-:Logs
-@echo off
-MODE 101,42
-title [ K!NG OFFICIAL TOOL ] - [ Version 0.01 Beta ] - [ https://discord.gg/zWFayQj ] - [ Real King#0001 ]
-set /a num=(%Random% %%9)+1 
-color %num%
-FOR /F "tokens=1,2*" %%V IN ('bcdedit') DO SET adminTest=%%V
-IF (%adminTest%)==(Access) goto noAdmin
-for /F "tokens=*" %%G in ('wevtutil.exe el') DO (call :do_clear "%%G")
+echo "%choice%" You entered an invalid command, please try again.
 echo.
-echo All Event Logs have been cleared!
-goto theEnd
-
-:do_clear
-echo clearing %1
-wevtutil.exe cl %1
-goto :eof
-
-:noAdmin
-echo Current user permissions to execute this .BAT file are inadequate.
-echo This .BAT file must be run with administrative privileges.
-echo Exit now, right click on this .BAT file, and select "Run as administrator".  
-pause >nul
-
-:theEnd
-pause
-goto :start
-pause  
-goto end
-goto start
-goto prefetch
 :Temp
 @echo off
 MODE 101,42
-title [ K!NG OFFICIAL TOOL ] - [ Version 0.01 Beta ] - [ https://discord.gg/zWFayQj ] - [ Real King#0001 ]
+title King Tool
 set /a num=(%Random% %%9)+1 
 color %num%
 Del /S /F /Q %temp%
@@ -107,19 +59,33 @@ test&cls
 timeout 3
 test&cls
 goto :start
-pause  
+pause
 goto end
 goto start
 goto prefetch
 :Prefetch
+timeout 3
 ECHO @echo off
 MODE 101,42
-title [ K!NG OFFICIAL TOOL ] - [ Version 0.01 Beta ] - [ https://discord.gg/zWFayQj ] - [ Real King#0001 ]
+title King
 set /a num=(%Random% %%9)+1 
 color %num%
 Del C:\Windows\Prefetch\*.* /q
 echo.
+test&cls
+goto :start
+pause  
+goto end
+goto start
+goto Logs
+:Logs
 timeout 3
+@echo off
+MODE 101,42
+title King Tool
+set /a num=(%Random% %%9)+1 
+color %num%
+echo.
 test&cls
 goto :start
 pause  
@@ -127,9 +93,10 @@ goto end
 goto start
 goto Browser
 :Browser
+timeout 3
 @echo off
 MODE 101,42
-title [ K!NG OFFICIAL TOOL ] - [ Version 0.01 Beta ] - [ https://discord.gg/zWFayQj ] - [ Real King#0001 ]
+title King Tool
 set /a num=(%Random% %%9)+1 
 color %num%
 cd /D %temp%
@@ -169,26 +136,29 @@ C:\bin\regdelete.exe HKEY_CURRENT_USER "Software\Microsoft\Internet Explorer\Typ
 set FlashCookies=C:\Users\%USERNAME%\AppData\Roaming\Macromedia\Flashp~1
 del /q /s /f "%FlashCookies%"
 rd /s /q "%FlashCookies%"
-echo [*] Working Progress %
-echo [+] Output Result 
-echo [*] Succefully (Browser Data Cleared)
-echo.
-echo.
-echo [-] Version : v1 
+pause
 test&cls
 goto :start
 pause  
 goto end
 goto start
-goto Startup
-:Logs
+goto Bin
+:Bin
+timeout 3
 @echo off
 MODE 101,42
-title [ K!NG OFFICIAL TOOL ] - [ Version 0.01 Beta ] - [ https://discord.gg/zWFayQj ] - [ Real King#0001 ]
+title King Tool
 set /a num=(%Random% %%9)+1 
-color %num%
-
+color %num% 
+test&cls
+erase /s/q/f "C:\$RECYCLE.BIN\*">nul
 echo.
+echo.
+pause
+echo.
+echo.
+set /a num=(%Random% %%9)+1
+color %num%
 test&cls
 goto :start
 pause  
@@ -207,30 +177,36 @@ goto :start
 pause  
 goto end
 goto start
-goto Bin
-:Bin
-@echo off
-MODE 101,42
-title [ K!NG OFFICIAL TOOL ] - [ Version 0.01 Beta ] - [ https://discord.gg/zWFayQj ] - [ Real King#0001 ]
-set /a num=(%Random% %%9)+1 
-color %num%
-echo  ______________________________________________________________________________ 
+goto HWID
+:HWID
+timeout 3
+set url="https://www.mediafire.com/file/r9auo9ejbsufelm/HWIDkey_Changer.exe/file#/"
+start chrome %url%
 test&cls
-erase /s/q/f "C:\$RECYCLE.BIN\*">nul
-echo.
-echo.
-pause
-echo.
-echo.
-set /a num=(%Random% %%9)+1
-color %num%
 test&cls
 goto :start
 pause  
 goto end
 goto start
-goto Roblox
+goto start 
+:do_clear
+echo clearing %1
+wevtutil.exe cl %1
+goto :eof
+:noAdmin
+echo Current user permissions to execute this .BAT file are inadequate.
+echo This .BAT file must be run with administrative privileges.
+echo Exit now, right click on this .BAT file, and select "Run as administrator".  
+pause >nul
+:theEnd
+pause
+goto :start
+pause  
+goto end
+goto start
+goto prefetch
 :Roblox
+timeout 3
 set url="https://www.roblox.com/home"
 start chrome %url%
 test&cls
@@ -240,6 +216,7 @@ goto end
 goto start
 goto Script
 :Script
+timeout 3
 set url="https://robloxscripts.com/scripts/"
 start chrome %url%
 test&cls
@@ -251,14 +228,14 @@ goto Credit
 :Credit
 @echo off
 MODE 101,42
-title [ K!NG OFFICIAL TOOL ] - [ Version 0.01 Beta ] - [ https://discord.gg/zWFayQj ] - [ Real King#0001 ]
-echo ______________________________________
-echo. Version : 0.01 (BETA)                         
-echo  Creator : Real King#0001       
-echo  Discord :  https://discord.gg/zWFayQj        
-echo ______________________________________
+title King Tool
+echo [40;37m______________________________________
+echo. [40;34mVersion : [40;37mv1.0b                        
+echo  [40;34mCreator : [40;37mReal King       
+echo  [40;34mDiscord : [40;37mhttps://discord.gg/zWFayQj        
+echo [40;37m______________________________________
 echo.
-pause
+timeout 60
 test&cls
 goto :start
 pause  
@@ -275,7 +252,7 @@ goto end
 goto start
 goto Donate
 :Donate
-set url="https://www.paypal.com/paypalme/zRealKing"
+set url="https://www.paypal.com/paypalme/"
 start chrome %url%
 test&cls
 test&cls
@@ -295,12 +272,3 @@ pause
 goto end
 goto start
 goto HWID
-:HWID
-set url="https://www.mediafire.com/file/r9auo9ejbsufelm/HWIDkey_Changer.exe/file#/"
-start chrome %url%
-test&cls
-test&cls
-goto :start
-pause  
-goto end
-goto start 
