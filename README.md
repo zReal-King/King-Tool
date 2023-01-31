@@ -3,7 +3,7 @@ This Tool is an all-in-one tool that uses batch file language for Windows machin
 
 # FAQ
 
-* What does the tool contain?
+What does the tool contain?
 
 This tool contain:
 - Clearing Temp
