@@ -18,6 +18,9 @@ This tool contain:
 * Does this tool compatible with operating systems other than Windows?
 No. This tool can run on Windows operating systems only.
 
+* Does the tool require permission?
+Yes. You will need to run it as adminstator to prevent issues.
+
 * Is King's Tool Safe?
 
 This tool is totally safe to use. It is an open-source tool.
