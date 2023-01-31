@@ -19,6 +19,7 @@ This tool contain:
 No. This tool can run on Windows operating systems only.
 
 * Does the tool require permission?
+
 Yes. You will need to run it as adminstator to prevent issues.
 
 * Is King's Tool Safe?
