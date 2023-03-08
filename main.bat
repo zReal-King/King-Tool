@@ -232,10 +232,11 @@ goto Credit
 :Credit
 @echo off
 title [ King's Tool - v2.0b ]
+test&cls
 echo [40;37m______________________________________
-echo. [40;34mVersion : [40;37mv1.0b                        
-echo  [40;34mCreator : [40;37mReal King       
-echo  [40;34mDiscord : [40;37mhttps://discord.gg/zWFayQj        
+echo [40;34mVersion : [40;37mv1.0b                        
+echo [40;34mCreator : [40;37mReal King       
+echo [40;34mDiscord : [40;37mhttps://discord.gg/zWFayQj        
 echo [40;37m______________________________________
 echo.
 timeout 60
