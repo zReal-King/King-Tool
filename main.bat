@@ -1,34 +1,37 @@
 @echo off
-title King Tool
+::MODE 1,42
+title [ King's Tool - v2.0b ]
 color 3
 ::mode con lines=26 cols=122
 chcp 65001 >nul
+cls
+:start
 echo.
 echo.
-echo [40;31m██ ▄█▀ ██▓ ███▄    █   ▄████       [40;34m▄▄▄█████▓  █████    █████   ██▓    
-echo [40;31m██▄█▒ ▓██▒ ██ ▀█   █  ██▒ ▀█▒      [40;34m▓  ██▒ ▓▒▒██▒  ██▒▒██▒  ██▒▓██▒    
-echo [40;31m███▄░ ▒██▒▓██  ▀█ ██▒▒██░▄▄▄░      [40;34m▒ ▓██░ ▒░▒██░  ██▒▒██░  ██▒▒██░    
-echo [40;31m██ █▄ ░██░▓██▒  ▐▌██▒░▓█  ██▓      [40;34m░ ▓██▓ ░ ▒██   ██░▒██   ██░▒██░    
-echo [40;31m██▒ █▄░██░▒██░   ▓██░░▒▓███▀▒      [40;34m  ▒██▒ ░ ░ ████▓▒░░ ████▓▒░░██████ 
-echo [40;31m ▒▒ ▓▒░▓  ░ ▒░   ▒ ▒  ░▒   ▒       [40;34m  ▒ ░░   ░ ▒░▒░▒░ ░ ▒░▒░▒░ ░ ▒░▓   
-echo [40;31m ░▒ ▒░ ▒ ░░ ░░   ░ ▒░  ░   ░       [40;34m    ░      ░ ▒ ▒░   ░ ▒ ▒░ ░ ░ ▒   
-echo [40;31m ░░ ░  ▒ ░   ░   ░ ░ ░ ░   ░       [40;34m  ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░   
-echo [40;31m  ░    ░           ░       ░       [40;34m             ░ ░      ░ ░      ░   
+echo [40;31m██ ▄█▀ ██▓ ███▄    █   ▄████   ██████    [40;37m▄▄▄█████▓ ▒█████   ▒█████   ██▓      [40;34m  ██▒   █▓   ████▄
+echo [40;31m██▄█▒ ▓██▒ ██ ▀█   █  ██▒ ▀█▒▒██    ▒    [40;37m▓  ██▒ ▓▒▒██▒  ██▒▒██▒  ██▒▓██▒      [40;34m ▓██░   █▒       ██
+echo [40;31m▓███▄░ ▒██▒▓██  ▀█ ██▒▒██░▄▄▄░░ ▓██▄     [40;37m ▒ ▓██░ ▒░▒██░  ██▒▒██░  ██▒▒██░     [40;34m   ▓██  █▒░     ██  
+echo [40;31m▓██ █▄ ░██░▓██▒  ▐▌██▒░▓█  ██▓  ▒   ██▒  [40;37m ░ ▓██▓ ░ ▒██   ██░▒██   ██░▒██░     [40;34m    ▒██ █░░    ██ 
+echo [40;31m▒██▒ █▄░██░▒██░   ▓██░░▒▓███▀▒▒██████▒▒  [40;37m   ▒██▒ ░ ░ ████▓▒░░ ████▓▒░░██████▒ [40;34m     ▒▀█░      ██████    
+echo [40;31m▒ ▒▒ ▓▒░▓  ░ ▒░   ▒ ▒  ░▒   ▒ ▒ ▒▓▒ ▒ ░  [40;37m   ▒ ░░   ░ ▒░▒░▒░ ░ ▒░▒░▒░ ░ ▒░▓  ░ [40;34m     ░ ▐░      ░  ░░ 
+echo [40;31m░ ░▒ ▒░ ▒ ░░ ░░   ░ ▒░  ░   ░ ░ ░▒  ░ ░  [40;37m     ░      ░ ▒ ▒░   ░ ▒ ▒░ ░ ░ ▒  ░ [40;34m     ░ ░░         ▒  
+echo [40;31m░ ░░ ░  ▒ ░   ░   ░ ░ ░ ░   ░ ░  ░  ░    [40;37m   ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░    [40;34m       ░░         ░
+echo [40;31m░  ░    ░           ░       ░       ░    [40;37m              ░ ░      ░ ░      ░  ░ [40;34m        ░
 ::[40;34m[[40;37m+[40;34m] [40;37mCREATED BY REAL KING
 echo.
 echo [40;37m__________________________________________________________________
 echo.
-echo [40;31m[[40;37m 1 [40;34m] [40;37mClear Temporary File                [40;31m[[40;37m 5 [40;34m] [40;37mClear Recycle Bin
-echo [40;31m[[40;37m 2 [40;34m] [40;37mClear Prefetch Folder               [40;31m[[40;37m 6 [40;34m] [40;37mChange IP Adresse
-echo [40;31m[[40;37m 3 [40;34m] [40;37mClear Windows Logs                  [40;31m[[40;37m 7 [40;34m] [40;37mChange HWID
-echo [40;31m[[40;37m 4 [40;34m] [40;37mClear Browser Data
+echo [40;34m[[40;37m 1 [40;34m] [40;37mClear Temporary File                [40;34m[[40;37m 5 [40;34m] [40;37mClear Recycle Bin
+echo [40;34m[[40;37m 2 [40;34m] [40;37mClear Prefetch Folder               [40;34m[[40;37m 6 [40;34m] [40;37mChange IP Adresse
+echo [40;34m[[40;37m 3 [40;34m] [40;37mClear Windows Logs                  [40;34m[[40;37m 7 [40;34m] [40;37mChange HWID
+echo [40;34m[[40;37m 4 [40;34m] [40;37mClear Browser Data
 echo.
-echo [40;31m[[40;37m 8 [40;34m] [40;37mOpen Roblox
-echo [40;31m[[40;37m 9 [40;34m] [40;37mOpen Roblox Scripts
+echo [40;34m[[40;37m 8 [40;34m] [40;37mOpen Roblox
+echo [40;34m[[40;37m 9 [40;34m] [40;37mOpen Roblox Scripts
 echo.
-echo [40;31m[[40;37m ! [40;34m] [40;37mDetails
-echo [40;31m[[40;37m - [40;34m] [40;37mJoin Discord
-echo [40;31m[[40;37m $ [40;34m] [40;37mDonate Creator
+echo [40;34m[[40;37m ! [40;34m] [40;37mDetails
+echo [40;34m[[40;37m - [40;34m] [40;37mJoin Discord
+echo [40;34m[[40;37m $ [40;34m] [40;37mDonate Creator
 echo [40;37m__________________________________________________________________
 echo.
 set/p choice=^                                    [40;34m[[40;37m+[40;34m] [40;37mChoose : 
@@ -49,8 +52,7 @@ echo "%choice%" You entered an invalid command, please try again.
 echo.
 :Temp
 @echo off
-MODE 101,42
-title King Tool
+title [ King's Tool - v2.0b ]
 set /a num=(%Random% %%9)+1 
 color %num%
 Del /S /F /Q %temp%
@@ -64,14 +66,14 @@ goto end
 goto start
 goto prefetch
 :Prefetch
-timeout 3
 ECHO @echo off
-MODE 101,42
-title King
+title [ King's Tool - v2.0b ]
 set /a num=(%Random% %%9)+1 
 color %num%
 Del C:\Windows\Prefetch\*.* /q
 echo.
+test&cls
+timeout 3
 test&cls
 goto :start
 pause  
@@ -79,13 +81,13 @@ goto end
 goto start
 goto Logs
 :Logs
-timeout 3
 @echo off
-MODE 101,42
-title King Tool
+title [ King's Tool - v2.0b ]
 set /a num=(%Random% %%9)+1 
 color %num%
 echo.
+test&cls
+timeout 3
 test&cls
 goto :start
 pause  
@@ -93,10 +95,8 @@ goto end
 goto start
 goto Browser
 :Browser
-timeout 3
 @echo off
-MODE 101,42
-title King Tool
+title [ King's Tool - v2.0b ]
 set /a num=(%Random% %%9)+1 
 color %num%
 cd /D %temp%
@@ -136,7 +136,8 @@ C:\bin\regdelete.exe HKEY_CURRENT_USER "Software\Microsoft\Internet Explorer\Typ
 set FlashCookies=C:\Users\%USERNAME%\AppData\Roaming\Macromedia\Flashp~1
 del /q /s /f "%FlashCookies%"
 rd /s /q "%FlashCookies%"
-pause
+test&cls
+timeout 3
 test&cls
 goto :start
 pause  
@@ -144,10 +145,8 @@ goto end
 goto start
 goto Bin
 :Bin
-timeout 3
 @echo off
-MODE 101,42
-title King Tool
+title [ King's Tool - v2.0b ]
 set /a num=(%Random% %%9)+1 
 color %num% 
 test&cls
@@ -160,6 +159,8 @@ echo.
 set /a num=(%Random% %%9)+1
 color %num%
 test&cls
+timeout 3
+test&cls
 goto :start
 pause  
 goto end
@@ -171,6 +172,7 @@ timeout 3
 ipconfig /flushdns
 timeout 3
 ipconfig /renew 
+test&cls
 timeout 3
 test&cls
 goto :start
@@ -179,10 +181,10 @@ goto end
 goto start
 goto HWID
 :HWID
-timeout 3
 set url="https://www.mediafire.com/file/r9auo9ejbsufelm/HWIDkey_Changer.exe/file#/"
 start chrome %url%
 test&cls
+timeout 3
 test&cls
 goto :start
 pause  
@@ -206,9 +208,10 @@ goto end
 goto start
 goto prefetch
 :Roblox
-timeout 3
 set url="https://www.roblox.com/home"
 start chrome %url%
+test&cls
+timeout 3
 test&cls
 goto :start
 pause  
@@ -216,9 +219,10 @@ goto end
 goto start
 goto Script
 :Script
-timeout 3
 set url="https://robloxscripts.com/scripts/"
 start chrome %url%
+test&cls
+timeout 3
 test&cls
 goto :start
 pause  
@@ -227,8 +231,7 @@ goto start
 goto Credit
 :Credit
 @echo off
-MODE 101,42
-title King Tool
+title [ King's Tool - v2.0b ]
 echo [40;37m______________________________________
 echo. [40;34mVersion : [40;37mv1.0b                        
 echo  [40;34mCreator : [40;37mReal King       
@@ -268,7 +271,6 @@ color %num%
 pause
 test&cls
 goto :start
-pause
+pause  
 goto end
-goto start
-goto HWID
+goto start 
