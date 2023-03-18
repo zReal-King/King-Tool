@@ -20,6 +20,8 @@ This tool contain:
 
 - Changing HWID
 
+- Checking HWID
+
 - Open Roblox
 
 - Open Robloxscripts
