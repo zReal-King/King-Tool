@@ -8,31 +8,30 @@ cls
 :start
 echo.
 echo.
-echo [40;31m██ ▄█▀ ██▓ ███▄    █   ▄████   ██████    [40;37m▄▄▄█████▓ ▒█████   ▒█████   ██▓      [40;34m  ██▒   █▓   ████▄
-echo [40;31m██▄█▒ ▓██▒ ██ ▀█   █  ██▒ ▀█▒▒██    ▒    [40;37m▓  ██▒ ▓▒▒██▒  ██▒▒██▒  ██▒▓██▒      [40;34m ▓██░   █▒       ██
-echo [40;31m▓███▄░ ▒██▒▓██  ▀█ ██▒▒██░▄▄▄░░ ▓██▄     [40;37m ▒ ▓██░ ▒░▒██░  ██▒▒██░  ██▒▒██░     [40;34m   ▓██  █▒░     ██  
-echo [40;31m▓██ █▄ ░██░▓██▒  ▐▌██▒░▓█  ██▓  ▒   ██▒  [40;37m ░ ▓██▓ ░ ▒██   ██░▒██   ██░▒██░     [40;34m    ▒██ █░░    ██ 
-echo [40;31m▒██▒ █▄░██░▒██░   ▓██░░▒▓███▀▒▒██████▒▒  [40;37m   ▒██▒ ░ ░ ████▓▒░░ ████▓▒░░██████▒ [40;34m     ▒▀█░      ██████    
-echo [40;31m▒ ▒▒ ▓▒░▓  ░ ▒░   ▒ ▒  ░▒   ▒ ▒ ▒▓▒ ▒ ░  [40;37m   ▒ ░░   ░ ▒░▒░▒░ ░ ▒░▒░▒░ ░ ▒░▓  ░ [40;34m     ░ ▐░      ░  ░░ 
-echo [40;31m░ ░▒ ▒░ ▒ ░░ ░░   ░ ▒░  ░   ░ ░ ░▒  ░ ░  [40;37m     ░      ░ ▒ ▒░   ░ ▒ ▒░ ░ ░ ▒  ░ [40;34m     ░ ░░         ▒  
-echo [40;31m░ ░░ ░  ▒ ░   ░   ░ ░ ░ ░   ░ ░  ░  ░    [40;37m   ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░    [40;34m       ░░         ░
-echo [40;31m░  ░    ░           ░       ░       ░    [40;37m              ░ ░      ░ ░      ░  ░ [40;34m        ░
+echo  [40;31m██ ▄█▀ ██▓ ███▄    █   ▄████   ██████    [40;37m▄▄▄█████▓ ▒█████   ▒█████   ██▓      [40;34m  ██▒   █▓   ████▄
+echo  [40;31m██▄█▒ ▓██▒ ██ ▀█   █  ██▒ ▀█▒▒██    ▒    [40;37m▓  ██▒ ▓▒▒██▒  ██▒▒██▒  ██▒▓██▒      [40;34m ▓██░   █▒       ██
+echo  [40;31m▓███▄░ ▒██▒▓██  ▀█ ██▒▒██░▄▄▄░░ ▓██▄     [40;37m ▒ ▓██░ ▒░▒██░  ██▒▒██░  ██▒▒██░     [40;34m   ▓██  █▒░     ██  
+echo  [40;31m▓██ █▄ ░██░▓██▒  ▐▌██▒░▓█  ██▓  ▒   ██▒  [40;37m ░ ▓██▓ ░ ▒██   ██░▒██   ██░▒██░     [40;34m    ▒██ █░░    ██ 
+echo  [40;31m▒██▒ █▄░██░▒██░   ▓██░░▒▓███▀▒▒██████▒▒  [40;37m   ▒██▒ ░ ░ ████▓▒░░ ████▓▒░░██████▒ [40;34m     ▒▀█░      ██████    
+echo  [40;31m▒ ▒▒ ▓▒░▓  ░ ▒░   ▒ ▒  ░▒   ▒ ▒ ▒▓▒ ▒ ░  [40;37m   ▒ ░░   ░ ▒░▒░▒░ ░ ▒░▒░▒░ ░ ▒░▓  ░ [40;34m     ░ ▐░      ░  ░░ 
+echo  [40;31m░ ░▒ ▒░ ▒ ░░ ░░   ░ ▒░  ░   ░ ░ ░▒  ░ ░  [40;37m     ░      ░ ▒ ▒░   ░ ▒ ▒░ ░ ░ ▒  ░ [40;34m     ░ ░░         ▒  
+echo  [40;31m░ ░░ ░  ▒ ░   ░   ░ ░ ░ ░   ░ ░  ░  ░    [40;37m   ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░    [40;34m       ░░         ░
+echo  [40;31m░  ░    ░           ░       ░       ░    [40;37m              ░ ░      ░ ░      ░  ░ [40;34m        ░
 ::[40;34m[[40;37m+[40;34m] [40;37mCREATED BY REAL KING
+echo  [40;37m__________________________________________________________________
 echo.
-echo [40;37m__________________________________________________________________
+echo  [40;34m[[40;37m 1 [40;34m] [40;37mClear Temporary File                [40;34m[[40;37m 5 [40;34m] [40;37mClear Recycle Bin
+echo  [40;34m[[40;37m 2 [40;34m] [40;37mClear Prefetch Folder               [40;34m[[40;37m 6 [40;34m] [40;37mChange IP Adresse
+echo  [40;34m[[40;37m 3 [40;34m] [40;37mClear Windows Logs                  [40;34m[[40;37m 7 [40;34m] [40;37mChange HWID
+echo  [40;34m[[40;37m 4 [40;34m] [40;37mClear Browser Data                  [40;34m[[40;37m 8 [40;34m] [40;37mHWID Checker
 echo.
-echo [40;34m[[40;37m 1 [40;34m] [40;37mClear Temporary File                [40;34m[[40;37m 5 [40;34m] [40;37mClear Recycle Bin
-echo [40;34m[[40;37m 2 [40;34m] [40;37mClear Prefetch Folder               [40;34m[[40;37m 6 [40;34m] [40;37mChange IP Adresse
-echo [40;34m[[40;37m 3 [40;34m] [40;37mClear Windows Logs                  [40;34m[[40;37m 7 [40;34m] [40;37mChange HWID
-echo [40;34m[[40;37m 4 [40;34m] [40;37mClear Browser Data
+echo  [40;34m[[40;37m 9 [40;34m] [40;37m Open Roblox
+echo  [40;34m[[40;37m 10 [40;34m] [40;37mOpen Roblox Scripts
 echo.
-echo [40;34m[[40;37m 8 [40;34m] [40;37mOpen Roblox
-echo [40;34m[[40;37m 9 [40;34m] [40;37mOpen Roblox Scripts
-echo.
-echo [40;34m[[40;37m ! [40;34m] [40;37mDetails
-echo [40;34m[[40;37m - [40;34m] [40;37mJoin Discord
-echo [40;34m[[40;37m $ [40;34m] [40;37mDonate Creator
-echo [40;37m__________________________________________________________________
+echo  [40;34m[[40;37m ? [40;34m] [40;37mDetails
+echo  [40;34m[[40;37m - [40;34m] [40;37mJoin Discord
+echo  [40;34m[[40;37m $ [40;34m] [40;37mDonate Creator
+echo  [40;37m__________________________________________________________________
 echo.
 set/p choice=^                                    [40;34m[[40;37m+[40;34m] [40;37mChoose : 
 if not '%choice%'=='' set choice=%choice:~0,1%
@@ -43,9 +42,10 @@ if '%choice%'=='4' goto Browser
 if '%choice%'=='5' goto Bin
 if '%choice%'=='6' goto Ip Addreas
 if '%choice%'=='7' goto HWID
-if '%choice%'=='8' goto Roblox
-if '%choice%'=='9' goto Script
-if '%choice%'=='!' goto Credit
+if '%choice%'=='8' goto HWIDChecker
+if '%choice%'=='9' goto Roblox
+if '%choice%'=='10' goto Script
+if '%choice%'=='?' goto Credit
 if '%choice%'=='-' goto Discord
 if '%choice%'=='$' goto Donate
 echo "%choice%" You entered an invalid command, please try again.
@@ -55,6 +55,7 @@ echo.
 title [ King's Tool - v2.0b ]
 set /a num=(%Random% %%9)+1 
 color %num%
+test&cls
 Del /S /F /Q %temp%
 Del /S /F /Q %Windir%\Temp
 test&cls
@@ -70,8 +71,8 @@ ECHO @echo off
 title [ King's Tool - v2.0b ]
 set /a num=(%Random% %%9)+1 
 color %num%
+test&cls
 Del C:\Windows\Prefetch\*.* /q
-echo.
 test&cls
 timeout 3
 test&cls
@@ -151,13 +152,6 @@ set /a num=(%Random% %%9)+1
 color %num% 
 test&cls
 erase /s/q/f "C:\$RECYCLE.BIN\*">nul
-echo.
-echo.
-pause
-echo.
-echo.
-set /a num=(%Random% %%9)+1
-color %num%
 test&cls
 timeout 3
 test&cls
@@ -167,11 +161,13 @@ goto end
 goto start
 goto Ip Addreas
 :Ip Addreas
+test&cls
 ipconfig /release
-timeout 3
-ipconfig /flushdns
-timeout 3
+timeout /t 1 /nobreak > nul
 ipconfig /renew 
+timeout /t 6 /nobreak > nul
+ipconfig /flushdns
+timeout /t 1 /nobreak > nul
 test&cls
 timeout 3
 test&cls
@@ -190,7 +186,7 @@ goto :start
 pause  
 goto end
 goto start
-goto start 
+goto start
 :do_clear
 echo clearing %1
 wevtutil.exe cl %1
@@ -207,6 +203,41 @@ pause
 goto end
 goto start
 goto prefetch
+:HWIDChecker
+@echo off
+title [ King's Tool - v2.0b ]
+test&cls
+echo.
+echo [40;37mStarting ......................................
+echo Checking Mac address ...............[40;37m[ [40;32mSuccess[40;37m ]
+timeout /t 1 /nobreak > nul
+echo Checking Memory Serial Number ......[40;37m[ [40;32mSuccess [40;37m]
+timeout /t 1 /nobreak > nul
+echo Checking Hardware Serial Numbers ...[40;37m[ [40;32mSuccess [40;37m]
+timeout /t 1 /nobreak > nul
+echo Checking Base Board Serial Number ..[40;37m[ [40;32mSuccess [40;37m]
+timeout /t 1 /nobreak > nul
+echo [40;37m                  
+timeout /t 1 /nobreak > nul
+cls
+echo.
+echo [40;34m[[40;37m Mac Address [40;34m][40;37m
+getmac
+echo.
+echo [40;34m[[40;37m Disk Drive [40;34m][40;37m
+wmic diskdrive get size,model,SerialNumber, Description, Status, Manufacturer
+echo.
+echo [40;34m[[40;37m Memory Chip [40;34m][40;37m
+wmic memorychip get devicelocator, manufacturer, serialnumber , capacity, speed, memorytype, formfactor, tag
+echo [40;34m[[40;37m Base Board [40;34m][40;37m
+wmic baseboard get Description, serialnumber, Manufacturer, Status
+pause
+test&cls
+goto :start
+pause  
+goto end
+goto start
+goto Roblox
 :Roblox
 set url="https://www.roblox.com/home"
 start chrome %url%
