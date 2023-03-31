@@ -20,11 +20,12 @@ This Tool is an all-in-one tool written in batch file language for Windows machi
 ### Tool requirment:
 * This tool can run on Windows operating systems only.
 
+### Tool Safety:
+* This tool is totally safe to use. It is an open-source tool.
+
 ### Permission needed:
 * Will need to run it as adminstator to prevent issues.
 
-### Tool Safety:
-* This tool is totally safe to use. It is an open-source tool.
 
 ### Contact us:
 
