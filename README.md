@@ -23,7 +23,7 @@ This Tool is an all-in-one tool written in batch file language for Windows machi
 ### Permission needed:
 * Will need to run it as adminstator to prevent issues.
 
-### Safe to use:
+### Tool Safety:
 * This tool is totally safe to use. It is an open-source tool.
 
 ### Contact us:
