@@ -30,7 +30,7 @@ This Tool is an all-in-one tool written in batch file language for Windows machi
 
 * CONATACT US AT OUR DISCORD SERVER : https://discord.com/invite/KmSqxEf
 
-## Installion 
+## installation  
 1- Press on "Code" Button.
 
 2- Click Download ZIP.
