@@ -3,7 +3,7 @@
 ## About
 This Tool is an all-in-one tool written in batch file language for Windows machines to run tasks from menu selections. This tool is virus-free.
 
-### Tool contain:
+## Tool contain:
 * Clearing Temp
 * Clearing Prefetch
 * Clearing Windows Logs
@@ -42,7 +42,7 @@ This Tool is an all-in-one tool written in batch file language for Windows machi
 
 * CONATACT US AT OUR DISCORD SERVER : https://discord.com/invite/KmSqxEf
 
-## Credits:
+### Credits:
 @zReal-King
 
 Real King#0001
