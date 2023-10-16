@@ -1,5 +1,9 @@
 # King's Tool
 
+## Preview
+![image](https://github.com/zReal-King/King-Tool/assets/71533667/0f0646d9-97df-4419-bf44-c16db3231ba5)
+
+
 ## About
 This Tool is an all-in-one tool written in batch file language for Windows machines to run tasks from menu selections. This tool is virus-free.
 
@@ -25,9 +29,6 @@ This Tool is an all-in-one tool written in batch file language for Windows machi
 
 ### Permission needed:
 * Will need to run it as adminstator to prevent issues.
-
-## Preview
-![image](https://github.com/zReal-King/King-Tool/assets/71533667/0f0646d9-97df-4419-bf44-c16db3231ba5)
 
 ### Contact us:
 
