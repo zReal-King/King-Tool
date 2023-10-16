@@ -6,8 +6,6 @@
 ## About
 This Tool is an all-in-one tool written in batch file language for Windows machines to run tasks from menu selections. This tool is virus-free.
 
-## FAQ
-
 ### Tool contain:
 * Clearing Temp
 * Clearing Prefetch
@@ -20,14 +18,16 @@ This Tool is an all-in-one tool written in batch file language for Windows machi
 * Open Roblox
 * Open Robloxscripts
 
-### Tool requirment:
-* This tool can run on Windows operating systems only.
+## FAQ
 
-### Tool Safety:
-* This tool is totally safe to use. It is an open-source tool.
+### Does Tool require any specific operating system ?
+* Yes, This tool needs to run on Windows operating systems only.
 
-### Permission needed:
-* Will need to run it as adminstator to prevent issues.
+### Is the tool safe to use ?
+* Yes, This tool is totally safe to use. It is an open-source tool.
+
+### Does it need any Permission ?
+* No, But you need to run it as adminstator to prevent issues.
 
 ### Contact us:
 
