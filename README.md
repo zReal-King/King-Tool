@@ -1,6 +1,5 @@
 # King's Tool
 
-## Preview
 ![image](https://github.com/zReal-King/King-Tool/assets/71533667/0f0646d9-97df-4419-bf44-c16db3231ba5)
 
 
