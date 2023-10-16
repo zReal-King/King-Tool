@@ -18,6 +18,14 @@ This Tool is an all-in-one tool written in batch file language for Windows machi
 * Open Roblox
 * Open Robloxscripts
 
+## Installation  
+1- Press on "Code" Button.
+
+2- Click Download ZIP.
+
+3- Run main.bat as adminstator.
+
+
 ## FAQ
 
 ### Does Tool require any specific operating system ?
@@ -32,13 +40,6 @@ This Tool is an all-in-one tool written in batch file language for Windows machi
 ### Contact us:
 
 * CONATACT US AT OUR DISCORD SERVER : https://discord.com/invite/KmSqxEf
-
-## Installation  
-1- Press on "Code" Button.
-
-2- Click Download ZIP.
-
-3- Run main.bat as adminstator.
 
 ## Credits:
 @zReal-King
