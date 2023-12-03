@@ -4,7 +4,7 @@
 This tool is an all-in-one tool written in batch file language for Windows machines to run tasks from menu selections. This tool is open-source and virus-free.
 
 ## Preview:
-![image](https://github.com/zReal-King/King-Tool/assets/71533667/0f0646d9-97df-4419-bf44-c16db3231ba5)
+![image](https://github.com/zReal-King/King-Tool/assets/71533667/8d8ac9e5-add1-44aa-be62-34efaaad0b3f)
 
 ## Tool contain:
 * Clearing Temp
