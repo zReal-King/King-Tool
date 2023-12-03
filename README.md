@@ -39,15 +39,12 @@ Does it need any Permission ?
 
 4- Extract the folder to any disk location
 
-5- Right Click > Run main.bat as adminstator.
+5- Run main.bat as adminstator.
 
 ## Contact us:
 
 * Contact us at our Discord server: [ https://discord.com/invite/cUQ3xb8QzH ]
 
 ## Credits:
-@zReal-King
-
-Real King#0001
-
+@zReal-King (Real King#0001)
 Thanks,
