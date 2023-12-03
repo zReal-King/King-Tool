@@ -20,13 +20,13 @@ This tool is an all-in-one tool written in batch file language for Windows machi
 
 ## FAQ
 
-### Does Tool require any specific operating system ?
+Does Tool require any specific operating system ?
 * Yes, This tool needs to run on Windows operating systems only.
 
-### Is the tool safe to use ?
+Is the tool safe to use ?
 * Yes, This tool is totally safe to use. It is an open-source tool.
 
-### Does it need any Permission ?
+Does it need any Permission ?
 * No, But you need to run it as adminstator to prevent issues.
 
 
@@ -37,11 +37,11 @@ This tool is an all-in-one tool written in batch file language for Windows machi
 
 3- Run main.bat as adminstator.
 
-### Contact us:
+## Contact us:
 
 * CONATACT US AT OUR DISCORD SERVER : https://discord.com/invite/KmSqxEf
 
-### Credits:
+## Credits:
 @zReal-King
 
 Real King#0001
