@@ -35,7 +35,11 @@ Does it need any Permission ?
 
 2- Click Download ZIP.
 
-3- Run main.bat as adminstator.
+3- Open folder with Winrar
+
+4- Extract the folder to any disk location
+
+5- Right Click > Run main.bat as adminstator.
 
 ## Contact us:
 
