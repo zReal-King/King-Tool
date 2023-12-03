@@ -35,9 +35,9 @@ Does it need any Permission ?
 
 2- Click Download ZIP.
 
-3- Open folder with Winrar
+3- Open folder with Winrar.
 
-4- Extract the folder to any disk location
+4- Extract the folder to any disk location.
 
 5- Run main.bat as adminstator.
 
