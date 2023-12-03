@@ -43,7 +43,7 @@ Does it need any Permission ?
 
 ## Contact us:
 
-* CONATACT US AT OUR DISCORD SERVER : https://discord.com/invite/KmSqxEf
+* Contact us at our discord server: (https://discord.com/invite/cUQ3xb8QzH)
 
 ## Credits:
 @zReal-King
