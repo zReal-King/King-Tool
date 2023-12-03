@@ -43,7 +43,7 @@ This tool is an all-in-one tool written in batch file language for Windows machi
 
 ## Contact us:
 
-* Contact us at our Discord server: [ https://discord.com/invite/cUQ3xb8QzH ]
+Contact us at our Discord server: [ https://discord.com/invite/cUQ3xb8QzH ]
 
 ## Credits:
 @zReal-King (Real King#0001)
